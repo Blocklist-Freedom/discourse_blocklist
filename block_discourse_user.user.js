@@ -259,7 +259,7 @@
     });
 
     const label = document.createElement("label");
-    label.textContent = "标记帖子方式: ";
+    label.textContent = "Block Style: ";
     label.appendChild(remindWaySelect);
     label.style.color = "#e0e0e0";
 
